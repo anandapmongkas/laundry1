@@ -7,7 +7,7 @@ use App\Http\Controllers\paketController;
 use App\Http\Controllers\memberController;
 use App\Http\Controllers\transaksiController;
 use App\Http\Controllers\detailController;
-// use App\Http\Controllers\dashboardController;
+use App\Http\Controllers\dashboardController;
 
 
 
